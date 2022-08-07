@@ -1,0 +1,16 @@
+.homeContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.usernameInput {
+    border: 1px solid red;
+}
+
+.errorLabel{
+    color: red;
+}
